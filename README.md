@@ -1,8 +1,5 @@
-# JSExpertMax Gesture Controller - Semana JS Expert 7.0
+# JSExpertMax Gesture Controller 
 
-Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
-
-Marque esse projeto com uma estrela 🌟
 
 ## Preview
 <img width=100% src="./assets/demo-template-lg.gif">
@@ -29,16 +26,6 @@ Marque esse projeto com uma estrela 🌟
   - [] - Deve ser possivel de reproduzir ou pausar videos com o piscar de olhos 😁
   - [] - Todo processamento de Machine Learning deve ser feito via Web worker
 
-### Desafios
-- [] - Aula 01 - Diferenciar piscada de olhos entre olho direito e esquerdo e atualizar log para mostrar qual olho que piscou.
-- [] - Aula 02 - Reconhecer gestos de mãos individuais e printar no log
-- [] - Aula 03 - A definir
-- [] - Aula 04 - A definir
-
-### Considerações
-- Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
-
-- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord**
 
 ### Créditos ao Layout
 - Interface baseada no projeto [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) de [gunnarhawk](https://github.com/Gunnarhawk)
